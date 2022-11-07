@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code2Gether.October", "Code2Gether.October\Code2Gether.October.csproj", "{132155FA-F438-43B1-9F20-77CDA681DA17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code2Gether.October", "Code2Gether.October.csproj", "{132155FA-F438-43B1-9F20-77CDA681DA17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
